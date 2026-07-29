@@ -3,3 +3,6 @@ logs/
 __pycache__/
 *.pyc
 .env
+
+# VS Code workspace settings (auto-created, machine-local — never tracked)
+.vscode/
